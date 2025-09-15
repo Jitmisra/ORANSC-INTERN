@@ -90,9 +90,3 @@ docker build -t it-dep-initcontainer:test -f ric-common/Initcontainer/docker/Doc
 - Update external repository URLs to use accessible alternatives
 - Implement offline build capabilities for environments with restricted network access
 
-**Project Context**
-- This repository is a mirror of the upstream Gerrit repo for O-RAN-SC IT Department
-- Contains deployment scripts, charts, and configuration files for RIC platform components
-- Supports both RIC platform and auxiliary functions deployment
-- Uses Helm charts for Kubernetes deployment with customizable recipe files
-- Integrates with ONAP components and O-RAN-SC Non-RT RIC architecture
