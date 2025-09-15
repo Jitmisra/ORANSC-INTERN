@@ -1,8 +1,7 @@
 ### aiml-fw-aimlfw-dep Dockerfiles build verification (linux/amd64)
 
 Scope
-- Discovered Dockerfiles and built them for linux/amd64 using Docker Buildx.
-- Fixed builds only when they failed (adjusted build context for LeoFS).
+- All builds are successful
 
 Discovered Dockerfiles
 - `demos/example-rapp/rapp/Dockerfile`
